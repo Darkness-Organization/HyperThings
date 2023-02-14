@@ -16,7 +16,7 @@ You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They ar
 <!-- The font is called Big, if you are wondering -->
 <div align="center">
          
-<img src="https://socialify.git.ci/Darkness-Organization/HyperThings/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="Hypertabs" width="640" height="320" />
+<img src="https://socialify.git.ci/Darkness-Organization/HyperThings/image?description=1&font=Jost&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Hypertabs" width="640" height="320" />
 
 <a href="" alt="Made with NodeJS"><img src="https://img.shields.io/badge/Made%20with-Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a> 
 <a href="https://github.com/amethystnetwork-dev/Hypertabs/graphs/contributors/" alt=""><img src="https://img.shields.io/github/contributors/amethystnetwork-dev/Hypertabs?style=for-the-badge"></a>
